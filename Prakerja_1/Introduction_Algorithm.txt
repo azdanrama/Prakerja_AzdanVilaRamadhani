@@ -1,0 +1,23 @@
+[Pengenalan Algoritma]
+Algoritma: prosedur komputasi yang didefinisikan dengan baik yang mengambil beberapa nilai sebagai input dan menghasilkan beberapa nilai sebagai output.
+
+[Contoh Algoritma]
+1. Check Prime Number
+2. Sorting
+3. Searching
+
+[Karakteristik Algoritma]
+1. Memiliki batas (awal dan akhir)
+2. Instruksi terdefinisi dengan baik
+3. Efektif & efisien
+
+[Algoritma Dasar]
+1. Sequential
+2. Branching
+3. Looping
+
+[Pseudocode]
+Pseudocode: cara penulisan kode dan algoritma menggunakan bahasa umum yang digunakan sehari-hari sehingga lebih mudah dipahami.
+
+[Flowchart]
+Flowchart: suatu bagan dengan simbol tertentu yang menggambarkan urutan dan hubungan antar proses secara mendetail.

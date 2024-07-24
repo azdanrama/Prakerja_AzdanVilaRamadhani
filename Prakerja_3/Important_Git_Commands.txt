@@ -1,0 +1,24 @@
+[Important Git Commands]
+Settings Up
+a. Git Init
+b. Git Clone
+c. Git Config
+
+Saving Changes
+a. Git Status
+b. Git Add
+c. Git Commit
+d. Git Diff
+e. Git Stash
+f. Git Ignore
+
+Inspecting Repository and Undoing
+a. Git Log
+b. Git Checkout
+c. Git Reset
+
+Syncing
+a. Git Remote
+b. Git Fetch
+c. Git Push
+d. Git Pull
